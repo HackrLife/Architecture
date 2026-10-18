@@ -1,8 +1,8 @@
 # Architecture
-A repository of Growth, PLG , GTM and Agentic Architectures
-# Architecture
 
-Blueprints for AI agents, PLG loops, growth plays and GTM frameworks, from @HackrLife.
+A repository of Growth, PLG , GTM and Agentic Architectures
+
+Blueprints for AI agents, PLG loops, Growth Plays and GTM frameworks, from @HackrLife.
 
 Each blueprint takes one system and shows how it is put together: the parts, how they connect, and the order to build them in. They are walkthroughs, not finished apps or templates to copy blindly. Read one and you should be able to build your own version.
 
